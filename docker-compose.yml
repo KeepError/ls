@@ -5,4 +5,4 @@ services:
     container_name: localtunnel
     restart: always
     ports:
-      - "6000:6000"
+      - "6100:6100"
